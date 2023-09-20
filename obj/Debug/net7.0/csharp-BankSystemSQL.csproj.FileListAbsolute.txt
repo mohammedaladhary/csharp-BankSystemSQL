@@ -1,0 +1,5 @@
+/Users/mohammedaladhary/Projects/csharp-BankSystemSQL/obj/Debug/net7.0/csharp-BankSystemSQL.csproj.AssemblyReference.cache
+/Users/mohammedaladhary/Projects/csharp-BankSystemSQL/obj/Debug/net7.0/csharp-BankSystemSQL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohammedaladhary/Projects/csharp-BankSystemSQL/obj/Debug/net7.0/csharp-BankSystemSQL.AssemblyInfoInputs.cache
+/Users/mohammedaladhary/Projects/csharp-BankSystemSQL/obj/Debug/net7.0/csharp-BankSystemSQL.AssemblyInfo.cs
+/Users/mohammedaladhary/Projects/csharp-BankSystemSQL/obj/Debug/net7.0/csharp-BankSystemSQL.csproj.CoreCompileInputs.cache
